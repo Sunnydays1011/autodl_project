@@ -1,2 +1,5 @@
 # autodl_project
-0
+本仓库包含第一次使用t5模型进行训练的代码及模型，还有使用Llama Factory进行微调时进行训练的代码及模型
+relation.py文件用于t5模型的训练
+predictions_with_ids文件主要用于t5模型的推理预测
+两个switch文件主要用于将两个json文件转化为适于lora微调的格式
