@@ -5,4 +5,5 @@ predictions_with_ids.py文件主要用于t5模型的推理预测。
 两个switch文件主要用于将两个json文件转化为适于lora微调的格式。
 t5.zip为t5训练之后的模型参数文件夹（不包含模型本身）
 saves.zip为使用Llama Factory微调以及推理之后所保存的模型adapter文件夹压缩包。分别保存在最里侧以train和eval开头的文件夹中。
-Llama Factory其他部分以及t5模型、Qwen3-8B原模型由于大小原因未上传。
+Llama Factory平台文件已压缩上传
+t5模型、Qwen3-8B原模型由于大小原因未上传。
